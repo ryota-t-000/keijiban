@@ -1,0 +1,115 @@
+.logo img{
+    width:200px;
+}
+
+.menu{
+    width:100%;
+    height:40px;
+    background-color: black;
+}
+
+.menu li{
+    display:inline-block;
+    list-style:none;
+    line-height:40px;
+    padding-right:40px;
+    color:white;
+}
+
+h1{
+    border-left:5px solid black;
+    border-bottom:3px solid gray;
+}
+
+.left{
+    float:left;
+    width:65%;
+    padding-right:50px;
+}
+
+form{
+    background-color:#fbfbfb;
+    border:3px #ebebeb solid;
+    width:100%;
+    margin-bottom: 10px;
+}
+
+form div{
+    padding: 15px;
+}
+
+.text {
+    border: 1px solid #dfdfdf;
+    padding: 5px;
+    color:#999;
+    background:#fff;
+}
+
+.textarea {
+    border: 1px solid #dfdfdf;
+    padding: 5px;
+    color:#999;
+    background:#fff;
+}
+
+.nyuryoku{
+    border-left:4px red solid;
+    margin-left: 25px;
+}
+
+.kiji1{
+    background-color:#fbfbfb;
+    border:3px #ebebeb solid;
+    width: 100%;
+    margin-bottom: 15px;
+    padding-left: 5px;
+}
+
+.kiji2{
+    background-color:#fbfbfb;
+    border:3px #ebebeb solid;
+    width: 100%;
+    margin-bottom: 10px;
+    padding-left: 15px;
+}
+
+.kiji1 h3{
+    border-bottom: 2px solid lightgray;
+}
+
+.contents{
+    font-size: 14px;
+    padding-left: 3px;
+    padding-bottom: 3px;
+}
+
+.handlename{
+    font-size: 10px;
+    padding-bottom: 6px;
+    padding-left: 3px;
+}
+
+
+.right{
+    float:right;
+    width:30%;
+}
+
+.midasi{
+    border-bottom:2px dashed black; 
+}
+
+.right ul{
+    list-style-type:none;
+    line-height: 40px;
+}
+
+footer{
+    clear:both;
+    width:100%;
+    height:40px;
+    line-height:40px;
+    text-align:center;
+    background-color: black;
+    color: white;
+}
